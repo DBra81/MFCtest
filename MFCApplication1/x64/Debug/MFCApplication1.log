@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MFCApplication1.cpp
+  MFCApplication1Doc.cpp
+  MFCApplication1View.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  MFCApplication1.vcxproj -> D:\githubtest\MFCApplication1\x64\Debug\MFCApplication1.exe
